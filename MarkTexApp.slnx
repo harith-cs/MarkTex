@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="MarkTexApp/MarkTexApp.csproj" />
+  <Project Path="MarkTexCore\MarkTexCore.csproj" Type="Classic C#" />
+  <Project Path="MarkTextTestplace\MarkTextTestplace.csproj" Type="Classic C#" />
 </Solution>
