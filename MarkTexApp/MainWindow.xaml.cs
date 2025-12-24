@@ -19,7 +19,7 @@ namespace MarkTexApp
                 notifyIcon = new NotifyIcon();
                 notifyIcon.Visible = true;
                 notifyIcon.Text = "MarkTex";                            
-                notifyIcon.Icon = Properties.Resources.MT_ICON;
+                notifyIcon.Icon = Properties.Resources.MT_icon;
 
                 notifyIcon.ContextMenuStrip = new ContextMenuStrip();                
                 var boldItem = new ToolStripMenuItem("Use Bold")

@@ -63,9 +63,9 @@ namespace MarkTexApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon MT_ICON {
+        internal static System.Drawing.Icon MT_icon {
             get {
-                object obj = ResourceManager.GetObject("MT_ICON", resourceCulture);
+                object obj = ResourceManager.GetObject("MT_icon", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
