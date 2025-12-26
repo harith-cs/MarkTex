@@ -51,4 +51,8 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MarkTexCore\MarkTexCore.csproj" />
+  </ItemGroup>
+
 </Project>
